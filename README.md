@@ -34,7 +34,7 @@ Easily extract metadata from any Spotify playlist and save it as a CSV file - wi
    ```
 4. **Enable Browser Support**
     ```bash
-    playwright install
+    pipx run playwright install
    ```
 
 ## Usage
