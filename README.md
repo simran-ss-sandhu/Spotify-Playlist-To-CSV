@@ -14,7 +14,7 @@ Easily extract metadata from any Spotify playlist and save it as a CSV file - wi
 
 ### Prerequisites
 
-- [Git](https://github.com/git-guides/install-git)
+- [Git](https://github.com/git-guides/install-git) (only required if cloning the repository)
 - [Python 3](https://www.python.org/downloads/)
 - [Pipx](https://pipx.pypa.io/stable/installation/)
 
